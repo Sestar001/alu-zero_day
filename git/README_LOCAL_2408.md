@@ -6,8 +6,4 @@ My first read me
 Up to date direct
 =======
 My first readme
-<<<<<<< HEAD
 >>>>>>> 8ce2b0b3cd2cbca63a0da66f997ba5ccf248db63
-=======
-My new update
->>>>>>> 434de9d6b481a2e9a1327cde23c127792f93f3b5
